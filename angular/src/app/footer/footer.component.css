@@ -1,0 +1,27 @@
+footer {
+    background-color: paleturquoise;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  footer h3 {
+    font-size: 20px;
+  }
+  
+  footer p {
+    font-size: 16px;
+  }
+  
+  footer a {
+    color: #fff;
+  }
+  
+  footer a:hover {
+    text-decoration: none;
+    color: #f1f1f1;
+  }
+  
+  footer p:last-child {
+    margin-top: 20px;
+  }
+  
